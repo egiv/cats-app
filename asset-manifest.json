@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cats-app/static/css/main.e823abde.chunk.css",
+    "main.js": "/cats-app/static/js/main.f4d509d2.chunk.js",
+    "main.js.map": "/cats-app/static/js/main.f4d509d2.chunk.js.map",
+    "runtime-main.js": "/cats-app/static/js/runtime-main.47164023.js",
+    "runtime-main.js.map": "/cats-app/static/js/runtime-main.47164023.js.map",
+    "static/css/2.98e7ac70.chunk.css": "/cats-app/static/css/2.98e7ac70.chunk.css",
+    "static/js/2.6ef70c6c.chunk.js": "/cats-app/static/js/2.6ef70c6c.chunk.js",
+    "static/js/2.6ef70c6c.chunk.js.map": "/cats-app/static/js/2.6ef70c6c.chunk.js.map",
+    "static/js/3.6d5c8def.chunk.js": "/cats-app/static/js/3.6d5c8def.chunk.js",
+    "static/js/3.6d5c8def.chunk.js.map": "/cats-app/static/js/3.6d5c8def.chunk.js.map",
+    "index.html": "/cats-app/index.html",
+    "static/css/2.98e7ac70.chunk.css.map": "/cats-app/static/css/2.98e7ac70.chunk.css.map",
+    "static/css/main.e823abde.chunk.css.map": "/cats-app/static/css/main.e823abde.chunk.css.map",
+    "static/js/2.6ef70c6c.chunk.js.LICENSE.txt": "/cats-app/static/js/2.6ef70c6c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47164023.js",
+    "static/css/2.98e7ac70.chunk.css",
+    "static/js/2.6ef70c6c.chunk.js",
+    "static/css/main.e823abde.chunk.css",
+    "static/js/main.f4d509d2.chunk.js"
+  ]
+}
